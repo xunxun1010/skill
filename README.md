@@ -5,7 +5,7 @@ install:
 ```
 npx skills add emilkowalski/skill  
 ```
-[notes:emil-design-eng](https://github.com/xunxun1010/skill/blob/main/emil-design-eng.md)  
+[notes:emil-design-eng](https://github.com/xunxun1010/skill/blob/main/emil-design-eng.md)
 ### 2.skills:
 description:This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io.  
 install:
