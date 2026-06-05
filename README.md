@@ -37,6 +37,6 @@ python scripts/investigate.py init --case-dir ./output/案例名
 python scripts/investigate.py status --case-dir ./output/案例名
 
 ```
-[notes:Academic Detective]()
+[notes:Academic Detective](https://github.com/xunxun1010/skill/blob/main/notes/Academic%20Detective.md)
 
 
